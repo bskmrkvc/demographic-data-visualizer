@@ -1,3 +1,6 @@
+
+#### This is the first project from FCC's "Data Analysis with Python" course.
+
 ### Assignment
 
 # Demographic Data Analyzer
